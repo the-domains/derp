@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Derp]]></title>
+        <description><![CDATA[Derp]]></description>
+        <link>https://thegrid.ai/derp/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 17:23:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/derp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Draft hello]]></title>
+            <description><![CDATA[<h1>Test Draft hello</h1>]]></description>
+            <link>https://thegrid.ai/derp/a23debc1-8418-4d51-8314-f1f265b1bcff/index.html</link>
+            <guid isPermaLink="false">a23debc1-8418-4d51-8314-f1f265b1bcff</guid>
+            <pubDate>Sat, 23 Jan 2016 17:22:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
